@@ -1,4 +1,4 @@
-This code is used to skip the not anymore videos required by the CSU. The information in these videos is important so only skip if you have already watched them.
+This code is used to skip the "not anymore" videos required by the CSU for new students. The information in these videos is important so only skip if you have already watched them.
 
 #### How to Use:
 Go to [skip_videos.js](skip_videos.js)
